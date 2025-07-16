@@ -82,8 +82,9 @@ Building next-gen AI, backend systems & process intelligence ⚡️
 
 ### 🌍 Let's Connect
 
-📧 Email: `m.andrijanic94@outlook.com`
-[LinkedIn](https://www.linkedin.com/in/marinko-andrijanic-099b9021b/)
+
+[LinkedIn](https://www.linkedin.com/in/marinko-andrijanic-099b9021b/)  
+📧 Email: m.andrijanic94@outlook.com  
 🌐 Website: *Coming Soon*  
 <a href="#"><img src="https://img.shields.io/badge/Website-Coming_Soon-ffcc00?style=flat-square&logo=google-chrome&logoColor=black"/></a>
 
