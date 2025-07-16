@@ -16,7 +16,7 @@
 
 🛠 Internal Developer Platforms & Dashboards  
 
-🔐 Fullstack apps with Spring Boot, Next.js, LangChain
+🔐 Backend with Spring Boot, Go, Python
  
  
 ---
@@ -27,31 +27,13 @@
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
  
-**🎨 Frontend & Styling**
- 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss)
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
- 
-**🎮 Game & Scripting**
- 
-![ESX](https://img.shields.io/badge/ESX-FiveM-blueviolet?style=flat&logo=fivem&logoColor=white)
  
 **⚙️ Backend & Infrastructure**
  
@@ -87,10 +69,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![Firewall](https://img.shields.io/badge/Firewall%20Rules-FF5733?style=flat)
 
-![VPS](https://img.shields.io/badge/VPS%20Hosting-0066A1?style=flat&logo=linux&logoColor=white)
- 
 **📦 Tools & Config**
  
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
@@ -118,9 +97,9 @@
  
 - 🧠 [Website (coming soon)
 
-- 🧪 [Projects](https://github.com/Koviniho?tab=repositories)
+- 🧪 
 
-- ✉️ Reach out: ``
+- ✉️ Reach out: `m.andrijanic94@outlook.com`
  
 ---
  
