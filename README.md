@@ -14,7 +14,7 @@ Building next-gen AI, backend systems & process intelligence ⚡️
 🛠 Backend solutions with Spring Boot, Go & Python  
 🔄 Internal developer tools & system orchestrators  
 
-> 🤖 Currently building an AI Agent (KO Agent) for ERP process automation using LLMs, LangChain & n8n – combining structured enterprise logic with GenAI capabilities.
+> 🤖 Currently building an AI Agent (GTORDER) for ERP process automation using LLMs, LangChain & n8n – combining structured enterprise logic with GenAI capabilities.
 
 ---
 
@@ -23,17 +23,16 @@ Building next-gen AI, backend systems & process intelligence ⚡️
 💥 Artificial Intelligence (LLMs, GenAI, LangChain, OpenAI, RAG)  
 📈 ERP & Business Automation (IFS ERP, AI Agent Design, KO Agent)  
 ⚙️ Backend Engineering (Spring Boot · Python · Go)  
-🚀 Scalable, containerized microservices with API-first design  
+🏗  Enterprise Architecture Management & IT infrastructure harmonization  
 🧠 Intelligent automation, data flows & human-in-the-loop design  
 
 ---
 
 ### 🧩 Featured Projects
 
-- 🤖 **KO Agent** – AI Agent for ERP IFS automation using LLMs, LangChain, and business process logic  
-- 🛠 **Cockpit AI** – Visual orchestration layer for AI-based microservice decisions and workflows  
-- 🔁 **LangChain Templates** – Modular GenAI pipelines for automation, memory and task management  
-- 💡 **Process Assistant Bot** – NLP-based tool for interpreting ERP logs and suggesting remediations  
+- 🤖 **AI Agent** – AI Agent for ERP IFS automation using LLMs, LangChain, and business process logic  
+- 🛠 **Cockpit WebApp** – Collection of REST interfaces for seamless integration with the ERP system  
+- 🔐 **CryptoTracking** – Lightweight Go service for real-time tracking of crypto prices, alerts & historical trends via public APIs
 
 ---
 
@@ -83,7 +82,8 @@ Building next-gen AI, backend systems & process intelligence ⚡️
 
 ### 🌍 Let's Connect
 
-📧 Email: `m.andrijanic94@outlook.com`  
+📧 Email: `m.andrijanic94@outlook.com`
+[LinkedIn](https://www.linkedin.com/in/marinko-andrijanic-099b9021b/)
 🌐 Website: *Coming Soon*  
 <a href="#"><img src="https://img.shields.io/badge/Website-Coming_Soon-ffcc00?style=flat-square&logo=google-chrome&logoColor=black"/></a>
 
